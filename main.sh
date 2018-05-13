@@ -1,0 +1,10 @@
+#!/bin/sh
+./Xcode.sh
+./Homebrew.sh
+./Atom.sh
+./Docker.sh
+./FishShell.sh
+./iTerm2.sh
+./Chrome.sh
+./mas-cli.sh
+./MacAppStore.sh
